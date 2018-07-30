@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import requests
-import time
+
 
 def push_it(message):
     api = 'https://api.pushover.net/1/messages.json/'
